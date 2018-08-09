@@ -46,10 +46,11 @@ p{
   background-color: dimgray;
 }
 #copyrights{
-  color: purple;
+  color: white;
   font-size: 11px;
 }
 
 .link{
-  color:green;
+  font-size: 18px;
+  color:white;
 }
